@@ -7,6 +7,7 @@
 <title>利用者マイページ</title>
 </head>
 <body>
+	<h2>利用者マイページ</h2>
 
 </body>
 </html>
