@@ -1,1 +1,6 @@
 @charset "UTF-8";
+
+.text_right {
+	max-width : 800px;
+	text-align: right;
+}
