@@ -17,7 +17,7 @@
 
 
    <!-- 自作CSS-->
-   <link rel="stylesheet" href="{{ url_for('css',filename='style.css') }}">
+   <link rel="stylesheet" type="text/css" href="<%=request.getContextPath() %>/css/mypage.css">
 
 
 <title>利用者マイページ</title>
