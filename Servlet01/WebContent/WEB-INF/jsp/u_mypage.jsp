@@ -24,7 +24,10 @@
 </head>
 <body>
 	<div class="mypage">
-		<h2>利用者マイページ</h2>
+		<h1>xxxxのマイページ</h1><br>
+		<h2>マイページリンク一覧</h2><br>
+		
+		<input type="submit" value="">
 
 		<p><input type="text" name="name">
 		<p><input type="password" name="pw">
