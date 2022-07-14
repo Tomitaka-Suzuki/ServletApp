@@ -23,15 +23,14 @@
 <title>利用者マイページ</title>
 </head>
 <body>
-	<div class="mypage">
-		<h1>xxxxのマイページ</h1><br>
-		<h2>マイページリンク一覧</h2><br>
-		
-		<input type="submit" value="">
+	<!--<div class="mypage"> -->
+	<h1>xxxxのマイページ</h1><br>
+	<h2>マイページリンク一覧</h2><br>
 
-		<p><input type="text" name="name">
-		<p><input type="password" name="pw">
-		<input type="submit" value="送信">
-	</div>
+	<p><input type="submit" value="検索・表示メニュー >"></p><br>
+    <p><input type="submit" value="お気に入り企業一覧 >"></p><br>
+
+	<input type="submit" value="送信">
+	<!-- </div> -->
 </body>
 </html>
