@@ -30,7 +30,7 @@
 	<p><input type="submit" value="検索・表示メニュー >"></p><br>
     <p><input type="submit" value="お気に入り企業一覧 >"></p><br>
 
-	<input type="submit" value="送信">
+	<p class="logout"><input type="submit" value="ログアウト"></p>
 	<!-- </div> -->
 </body>
 </html>

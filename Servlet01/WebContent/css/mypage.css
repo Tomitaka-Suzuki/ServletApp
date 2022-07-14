@@ -3,17 +3,27 @@
 h1{
     padding: 20px;
     text-align: center;
-    text-decoration: underline;
+    border-bottom: solid 3px rgb(8, 174, 224);
 
 }
 
 h2{
+
    padding: 20px;
-   text-align: center;
+   display: inline-block;
+   padding: 10px;
+   border: double 10px rgb(8, 174, 224);
+   margin-left: 16.5em;
 
 }
 
 p{
+    font-size: 25px;
     padding: 20px;
     text-align: center;
+}
+
+p.logout{
+    font-size: 25px;
+    margin-right: 5em;
 }
