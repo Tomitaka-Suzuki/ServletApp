@@ -10,6 +10,7 @@ h1{
 h2{
 
    padding: 20px;
+   text-align: center;
    display: inline-block;
    padding: 10px;
    border: double 10px rgb(8, 174, 224);
