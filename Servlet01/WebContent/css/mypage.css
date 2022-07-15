@@ -9,10 +9,10 @@ h1{
 
 h2{
 
-   padding: 20px;
-   text-align: center;
    display: inline-block;
-   padding: 10px;
+   margin-left:auto;
+   margin-left:10em;
+   text-align: center;
    border: double 10px rgb(8, 174, 224);
 
 
@@ -25,6 +25,10 @@ p{
 }
 
 p.logout{
+	display:block;
     font-size: 25px;
-    margin-right: 5em;
+    margin-left: 12em;
+    text-align:center;
+    border:solid 1px rgb(8,174,224);
+    cursor:pointer;
 }
