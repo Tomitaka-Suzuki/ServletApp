@@ -1,0 +1,31 @@
+/*  利用者用のＣＳＳ*/
+.header {
+	margin: auto;
+	max-width : 800px;
+	text-align: center;
+}
+/*確認文 色は水色*/
+.check{
+	text-align: center;
+	color: #00FFFF;
+	bottom: 50px;
+}
+/* ボタン*/
+.yes_button {
+	width:150px;
+	height:  180px;
+    margin-left: 50px;
+    border: 3px solid #00FFFF;
+    border-radius: 8px;
+    background: white;
+    cursor: pointer;/*　ボタンを押そうとすると指差しに代わる*/
+}
+.no_button {
+	width:180px;
+	height:  180px;
+    margin-left: 80px;
+    border: 3px solid #00FFFF;
+    border-radius: 8px;
+    background: white;
+    cursor: pointer;
+}
