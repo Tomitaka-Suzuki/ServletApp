@@ -25,10 +25,10 @@ p{
 }
 
 p.logout{
-	display:block;
+	 border: 1px solid rgb(8,174,224);
+	width: 200px;
     font-size: 25px;
     margin-left: 12em;
     text-align:center;
-    border:solid 1px rgb(8,174,224);
-    cursor:pointer;
+
 }
