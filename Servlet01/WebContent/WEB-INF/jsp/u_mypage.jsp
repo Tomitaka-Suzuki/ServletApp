@@ -17,7 +17,7 @@
 
 
    <!-- 自作CSS-->
-   <link rel="stylesheet" type="text/css" href="<%=request.getContextPath() %>/css/mypage.css">
+   <link rel="stylesheet" type="text/css" href="<%=request.getContextPath() %>/css/co_search.css">
 
 
 <title>利用者マイページ</title>
