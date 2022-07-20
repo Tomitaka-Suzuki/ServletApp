@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/userlogin.css">
 <title>利用者ログイン</title>
 </head>
 <body>
@@ -17,7 +17,7 @@
 	</header>
 	<div>
 		<br><br>
-		<h2 class="text_center">ログイン</h2>
+		<h2 class="text_center"><font face="UD デジタル 教科書体 NK-R, sans-serif">ログイン</font></h2>
 		<div class="login_box">
 			<form action="/CompanyUser/LoginServlet" method="post">
 				<table class="login_table">

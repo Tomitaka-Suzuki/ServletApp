@@ -10,32 +10,36 @@
 }
 
 .login_box {
-	width: 300px;  /* vw */
-	height:150px;  /* vh */
+	width: 400px;  /* vw */
+	height:200px;  /* vh */
 	border : 1px solid #000000;
-    border-radius:20px;
     margin: 0 auto;  /*センタリング */
+    background-color: #e0ffff;
+    color: #808080;
+    font-family: Arial,sans-serif;
 }
 
 .login_button {
-	width:150px;
+	width:80px;
 	height:  30px;
-    margin-left: 50px;
+    margin-left: 200px;
     border: 1px solid #68779a;
-    background: #cbe8fa;
+    background: blue;
     cursor: pointer;
+    border-radius:10px;
+    color: white;
 }
 
 .login_table {
-	margin-left: 20px;
+	margin-left: 50px;
 	margin-top: 30px;
 }
 
 .h20 {
-	height:20px;
+	height:50px;
 }
 .h30 {
-	height: 30px;
+	height: 50px;
 }
 .h50 {
 	height:50px;
