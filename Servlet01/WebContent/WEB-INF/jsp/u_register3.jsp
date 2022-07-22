@@ -14,6 +14,6 @@
 <div class="regi">
 	ID:<label class="check">xxxxx</label>のユーザー登録が完了しました。
 </div>
-	<div class="button_y"><button class="yes_button">ログイン画面に戻る</button></div>
+	<div class="button_c"><button class="yes_button">ログイン画面に戻る</button></div>
 </body>
 </html>

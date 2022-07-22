@@ -15,7 +15,7 @@
 <div class="regi">
 	ID:<label class="check">xxxxx</label>のユーザー登録を行いますか？
 </div>
-	<div class="button_y"><button class="yes_button">はい</button></div>
-	<div class="button_n"><button class="no_button">いいえ</button></div>
+	<div class="button_y"><button class="yes_button">いいえ</button></div>
+	<div class="button_n"><button class="no_button">はい</button></div>
 </body>
 </html>
