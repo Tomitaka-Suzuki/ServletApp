@@ -47,13 +47,8 @@
     cursor: pointer;
 }
 /*ボタン位置*/
-.button_y{
+.button_c{
 	position:relative;
 	top: 120px;/*上から*/
 	left:270px;/*左から*/
-}
-.button_n{
-	position:relative;
-	top: 90px;/*上から*/
-	left:430px;/*左から*/
 }

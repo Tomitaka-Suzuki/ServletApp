@@ -47,8 +47,10 @@
 /*ボタン位置*/
 .button_y{
 	position:relative;
-	top: 120px;/*上から*/
+	top:120px;/*上から*/
 	left:270px;/*左から*/
+
+
 }
 .button_n{
 	position:relative;
