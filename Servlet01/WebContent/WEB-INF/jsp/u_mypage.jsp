@@ -17,7 +17,7 @@
 
 
    <!-- 自作CSS-->
-   <link rel="stylesheet" type="text/css" href="<%=request.getContextPath() %>/css/co_search.css">
+   <link rel="stylesheet" type="text/css" href="<%=request.getContextPath() %>/css/mypage.css">
 
 
 <title>利用者マイページ</title>
@@ -30,7 +30,7 @@
 	<p><input type="submit" value="検索・表示メニュー >"></p><br>
     <p><input type="submit" value="お気に入り企業一覧 >"></p><br>
 
-	<p class="logout"><input type="submit" value="ログアウト"></p>
+	<p class="logout"><input type="button" value="ログアウト"></p>
 	<!-- </div> -->
 </body>
 </html>
