@@ -19,7 +19,7 @@
 		<br><br>
 		<h2 class="text_center"><font face="UD デジタル 教科書体 NK-R, sans-serif">ログイン</font></h2>
 		<div class="login_box">
-			<form action="/CompanyUser/LoginServlet" method="post">
+			<form action="/Servlet01/LoginServlet" method="post">
 				<table class="login_table">
 					<tr class="h20">
 						<th>・ユーザのID入力</th>
