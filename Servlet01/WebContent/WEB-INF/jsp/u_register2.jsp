@@ -8,19 +8,14 @@
 <link rel="stylesheet" href="css/u_regi2.css">
 </head>
 <body>
-<div class="box1">
-
-<div style="text-align:center">
-	<span style="border-bottom: solid 2px green;">　　　　　　　ユーザー登録　　　　　　　</span>
+<div class="header">
+	<span style="border-bottom: solid 2px green;">　　　　　　　　　　　　　　　　ユーザー登録　　　　　　　　　　　　　　　　</span>
 </div>
 
-<div style="text-align:center">
-	ID:<label class=".check">xxxxx（ここID）</label>のユーザー登録を行いますか？
+<div class="regi">
+	ID:<label class="check">xxxxx</label>のユーザー登録を行いますか？
 </div>
-	<div>
-		<button class=".yes_button">はい</button>
-		<button class=".no_button">いいえ</button>
-	</div>
-</div>
+	<div class="button_y"><button class="yes_button">はい</button></div>
+	<div class="button_n"><button class="no_button">いいえ</button></div>
 </body>
 </html>

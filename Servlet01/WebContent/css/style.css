@@ -10,8 +10,8 @@
 }
 
 .login_box {
-	width: 300px;  /* vw */
-	height:150px;  /* vh */
+	width: 150px;  /* vw */
+	height:30px;  /* vh */
 	border : 1px solid #000000;
     border-radius:20px;
     margin: 0 auto;  /*センタリング */
@@ -25,12 +25,10 @@
     background: #cbe8fa;
     cursor: pointer;
 }
-
 .login_table {
 	margin-left: 20px;
 	margin-top: 30px;
 }
-
 .h20 {
 	height:20px;
 }
@@ -40,3 +38,4 @@
 .h50 {
 	height:50px;
 }
+

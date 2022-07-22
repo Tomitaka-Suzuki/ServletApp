@@ -5,24 +5,24 @@
 <head>
 <meta charset="UTF-8">
 <title>お気に入り登録確認</title>
+<link rel="stylesheet"href="css/u_fa_regi1.css">
 </head>
 <body>
 
-<div style="text-align:right; padding:20px";>
-	<label class="y_label">ログイン中のユーザー：xxxxx(id表示)</label>
+<div style="text-align:right; padding:30px";>
+	ログイン中のユーザー：<label class="y_label">xxxxx</label>
 </div>
 
-<div style="text-align:center">
-	<span style="border-bottom: solid 2px green;">　　　　　　　お気に入り登録　　　　　　　</span>
-</div>
+    <div class="header">
+		<span style="border-bottom: solid 2px green;">　　　　　　　　　　　　　　　お気に入り登録　　　　　　　　　　　　　　　</span>
+	</div>
 
-<div style="text-align:center">
-	<label class=".check">xxxxx（企業名が表示される）</label>をお気に入りに登録しますか？
-</div>
+	<div class="regi">
+		<label class="check">xxxxx</label>をお気に入りに登録しますか？
+	</div>
 
-<div>
-	<button class=".yes_button">はい</button>
-	<button class=".no_button">いいえ</button>
-</div>
+	<div class="button_y"><button class="yes_button">はい</button></div>
+	<div class="button_n"><button class="no_button">いいえ</button></div>
+
 </body>
 </html>
