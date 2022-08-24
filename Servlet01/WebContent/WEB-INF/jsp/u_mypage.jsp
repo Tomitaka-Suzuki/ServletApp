@@ -27,10 +27,10 @@
 	<h1>xxxxのマイページ</h1><br>
 	<h2>マイページリンク一覧</h2><br>
 
-	<p><input type="submit" value="検索・表示メニュー >"></p><br>
-    <p><input type="submit" value="お気に入り企業一覧 >"></p><br>
+	<p><a href="/Servlet01/co_searchServlet"><input type="submit" value="検索・表示メニュー >"></a></p><br>
+    <p><a><input type="submit" value="お気に入り企業一覧 >"></a><br>
 
-	<p class="logout"><input type="button" value="ログアウト"></p>
+	<p><a class="logout"><input type="button" value="ログアウト"></a></p>
 	<!-- </div> -->
 </body>
 </html>

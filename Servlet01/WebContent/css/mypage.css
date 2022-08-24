@@ -18,13 +18,13 @@ h2{
 
 }
 
-p{
+a{
     font-size: 25px;
     padding: 20px;
     text-align: center;
 }
 
-p.logout{
+a.logout{
 
 	width: 100px;
 
