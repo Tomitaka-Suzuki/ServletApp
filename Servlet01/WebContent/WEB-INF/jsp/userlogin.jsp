@@ -10,9 +10,9 @@
 <body>
 	<header>
 		<div class="text_right">
-			<a href="">ユーザ登録</a>
+			<a href="/Servlet01/">ユーザ登録</a>
 			&emsp;
-			<a href="">トップメニュー</a>
+			<a href="/Servlet01/topmenu">トップメニュー</a>
 		</div>
 	</header>
 	<div>
