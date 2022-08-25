@@ -28,35 +28,33 @@
 	<div class="nyuryoku">
 		<p>ID<input type="text" name="ID"></p><br>
 		<p>企業名<input type="text" name="企業名"></p><br>
-		<p>地域<input type="text" name="地域">
-			<ul>
-				<li>関東</li>
-				<li>関西</li>
-				<li>東北（岩手県外）</li>
-				<li>東北（岩手県内）</li>
-				<li>その他の地域</li>
+		<p>地域<input type="text" name="地域"></p>
+		<select>
+		<option>関東</option>
+		<option>関西</option>
+		<option>東北（岩手県外）</option>
+		<option>東北（岩手県内）</option>
+		<option>その他の地域</option>>
+
+		</select>
 
 
-			</ul>
 
-		</p><br>
+		<br>
 		<p>業種<input type="text" name="業種">
-		<ul>
-			<li>情報（ＰＧ・ＳＥ）</li>
-			<li>情報（運用）</li>
-			<li>情報（インフラ）</li>
-			<li>卸売・小売</li>
-			<li>製造</li>
-			<li>デザイン業</li>
-			<li>全業種（事務）</li>
+		<select>
+		<option>情報（ＰＧ・ＳＥ）</option>
+		<option>情報（運用）</option>
+		<option>情報（インフラ）</option>
+		<option>卸売・小売</option>
+		<option>製造</option>
+		<option>デザイン業</option>
+		<option>全業種（事務）</p>
+
+		</select>>
 
 
-
-
-		</ul>
-
-
-		</p><br>
+		<br>
 		<p>給与<input type="text" name="給与"></p><br>
 	</div>
 	<input class="search" type="submit" value="検索">
@@ -92,6 +90,8 @@
 
 
 	</table>
+
+
 
 
 

@@ -8,10 +8,10 @@
 <title>TOPページ</title>
 </head>
 <body>
-	<h2>取引先企業情報検索システム</h2> <br>
+		<h2>取引先企業情報検索システム</h2> <br>
 	<div class="button005">
-		<a href="#">利用者</a> <br>
-		<a href="#">管理者</a>
+			<a href="/Servlet01/Userloginmenu">利用者</a> <br>
+			<a href="">管理者</a>
 	</div>
 </body>
 </html>

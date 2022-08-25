@@ -17,7 +17,11 @@
 
 
    <!-- 自作CSS-->
+<<<<<<< HEAD
    <link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/co_search.css">
+=======
+   <link rel="stylesheet" type="text/css" href="<%=request.getContextPath() %>/css/mypage.css">
+>>>>>>> branch 'master' of https://github.com/Tomitaka-Suzuki/ServletApp.git
 
 
 <title>利用者マイページ</title>
@@ -27,10 +31,10 @@
 	<h1>xxxxのマイページ</h1><br>
 	<h2>マイページリンク一覧</h2><br>
 
-	<p><input type="submit" value="検索・表示メニュー >"></p><br>
-    <p><input type="submit" value="お気に入り企業一覧 >"></p><br>
+	<p><a href="/Servlet01/co_searchServlet"><input type="submit" value="検索・表示メニュー >"></a></p><br>
+    <p><a href="/Servlet01/U_fa_display"><input type="submit" value="お気に入り企業一覧 >"></a><br>
 
-	<p class="logout"><input type="submit" value="ログアウト"></p>
+	<p><a class="logout" href="/Servlet01/topmenu"><input type="button" value="ログアウト"></a></p>
 	<!-- </div> -->
 </body>
 </html>

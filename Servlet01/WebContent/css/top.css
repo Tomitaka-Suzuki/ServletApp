@@ -1,8 +1,8 @@
-@charset "UTF-8";
-h2 {
+H2 {
 	text-align: center;
+	padding: 1rem 2rem;
+  	background: #CCFFFF;
 }
-/* 005 */
 .button005 a {
     border-radius: 3px;
     position: relative;
@@ -12,7 +12,7 @@ h2 {
     margin: 0 auto;
     max-width: 220px;
     padding: 10px 25px;
-    color: #FFF;
+    color: #000;
     transition: 0.3s ease-in-out;
     font-weight: 600;
     background: rgb(149,202,252);
@@ -22,5 +22,3 @@ h2 {
     background: rgb(117,188,255);
     background: linear-gradient(270deg, rgba(117,188,255,1) 0%, rgba(62,159,252,1) 100%);
 }
-
-
