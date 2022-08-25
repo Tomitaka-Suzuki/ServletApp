@@ -21,6 +21,6 @@
 		<label class="check">xxxxx</label>をお気に入りから削除しました。
 	</div>
 
-	<div class="button_y"><button class="no_button" onclick="location.href='/Servlet01/co_searchServlet'">お気に入り一覧へ</button></div>
+	<div class="button_y"><button class="no_button" onclick="location.href='/Servlet01/U_fa_display'">お気に入り一覧へ</button></div>
 </body>
 </html>
