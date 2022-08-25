@@ -21,7 +21,7 @@
 		<label class="check">xxxxx</label>をお気に入りに登録しますか？
 	</div>
 
-	<div class="button_y"><button class="yes_button">いいえ</button></div>
-	<div class="button_n"><button class="no_button">はい</button></div>
+	<div class="button_y"><button class="no_button" onclick="location.href='/Servlet01/co_searchServlet'">いいえ</button></div>
+	<div class="button_n"><button class="yes_button" onclick="location.href='/Servlet01/U_fa_register2'">はい</button></div>
 </body>
 </html>

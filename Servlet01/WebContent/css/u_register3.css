@@ -28,7 +28,7 @@
 }
 /* ボタンレイアウト*/
 .yes_button {
-	width:100px;
+	width:200px;
 	height:  30px;
     margin-left: 50px;
     border: 1px solid  #00FFFF;
@@ -37,18 +37,9 @@
 	cursor: pointer;/*ボタンを押そうとすると指差しに代わる*/
 }
 
-.no_button {
-	width:100px;
-	height:  30px;
-    margin-left: 50px;
-    border: 1px solid  #00FFFF;
-    border-radius: 10px;
-    background: white;
-    cursor: pointer;
-}
 /*ボタン位置*/
 .button_c{
 	position:relative;
 	top: 120px;/*上から*/
-	left:270px;/*左から*/
+	left:300px;/*左から*/
 }
