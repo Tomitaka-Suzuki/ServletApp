@@ -31,7 +31,8 @@
 					</tr>
 					<tr class="h50">
 						<td colspan="2">
-							<input type="submit" value="ログイン" class="login_button">
+							<!--<input type="submit" value="ログイン" class="login_button">-->
+							<input onclick="location.href='/Servlet01/mypageServlet'" value="ログイン" class="login_button">
 						</td>
 					</tr>
 				</table>
