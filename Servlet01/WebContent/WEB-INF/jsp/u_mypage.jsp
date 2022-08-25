@@ -18,10 +18,14 @@
 
    <!-- 自作CSS-->
 <<<<<<< HEAD
-   <link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/co_search.css">
 =======
+   <link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/co_search.css">
+>>>>>>> branch 'master' of git@github.com:Tomitaka-Suzuki/ServletApp.git
    <link rel="stylesheet" type="text/css" href="<%=request.getContextPath() %>/css/mypage.css">
->>>>>>> branch 'master' of https://github.com/Tomitaka-Suzuki/ServletApp.git
+<<<<<<< HEAD
+
+=======
+>>>>>>> branch 'master' of git@github.com:Tomitaka-Suzuki/ServletApp.git
 
 
 <title>利用者マイページ</title>
