@@ -11,9 +11,6 @@
 	<header>
 		<div class="text_right">
 			<a href="/Servlet01/U_register1">ユーザ登録</a>
-
-			<a href="/Servlet01/U_register2">ユーザ登録</a>
-
 			&emsp;
 			<a href="/Servlet01/topmenu">トップメニュー</a>
 		</div>
